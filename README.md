@@ -9,3 +9,5 @@ To change dictionaries you need to add a key and the value it contains, like for
 and so on.
 You need to install customtkinter using "pip install customtkinter"
 Have fun using my trashpile of a project, i promise ill study the code and make it better :,)
+BOMBACHAT UPDATE V0.2 UPDATE:
+-Added an exe file for the client.
